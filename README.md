@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Functions Lab (90 mins)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Functions Deliverable (90 mins)
 
 
 ### STUDENT PRE-WORK
@@ -14,8 +14,6 @@
 
 
 ## Introduction
-
-> ***Note:*** _This can be a pair programming activity or done independently._
 
 Let's practice writing some functions! 
 
@@ -38,7 +36,7 @@ Follow the requirements in the list below:
 **Bonus**
 For this bonus, you'll have to do some research on objects.
 
-1. Write a function that takes a string as an argument and returns an object where:
+1. Write a `function` that takes a string as an argument and returns an object where:
 
   - The keys are the characters that occur in the string.
   - The values are the number of occurrences for each letter, regardless of the case.
