@@ -26,14 +26,14 @@ function multiplyArray() {
 
 
 // Question 5
-var numberOfArguments = function(){
+const numberOfArguments = function(){
   
 }
 
 
 
 // Question 6
-var reverseString = function (){
+const reverseString = function (){
   
 };
 
@@ -51,8 +51,9 @@ function filterLongWords () {
 
 
 // Bonus 1
-//??????
-
+function logBetween(lowNum, highNum) {
+ 
+}
 
 // Bonus 2
 function charactersOccurencesCount() {
